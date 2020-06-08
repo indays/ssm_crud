@@ -25,5 +25,6 @@
     <mvc:default-servlet-handler/>
 
     <mvc:view-controller path="/login" view-name="index"></mvc:view-controller>
+    <mvc:view-controller path="/getwithajax" view-name="ajax_index"></mvc:view-controller>
 </beans>
 
